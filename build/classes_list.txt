@@ -1,0 +1,3 @@
+build/obj/com/example/spyapp/SpyService.class
+build/obj/com/example/spyapp/MainActivity.class
+build/obj/com/example/spyapp/BootReceiver.class
